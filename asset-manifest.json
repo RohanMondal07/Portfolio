@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.97559fe5.css",
+    "main.js": "/Portfolio/static/js/main.02315fdc.js",
+    "static/media/thumb-5.png": "/Portfolio/static/media/thumb-5.dbbcc57e066705a06255.png",
+    "static/media/thumb-6.png": "/Portfolio/static/media/thumb-6.1c29160be751ed5003e8.png",
+    "static/media/vector-background.png": "/Portfolio/static/media/vector-background.17fff8ffdaaf3dcfe71c.png",
+    "static/media/thumb-2.png": "/Portfolio/static/media/thumb-2.83901117990bc7c99d88.png",
+    "static/media/tech-icons.png": "/Portfolio/static/media/tech-icons.bba568408fb42fa031c8.png",
+    "static/media/thumb-7.jpg": "/Portfolio/static/media/thumb-7.ce14c76ba50f932d14d4.jpg",
+    "static/media/boy.png": "/Portfolio/static/media/boy.fe9840e00e43a4a7c84f.png",
+    "static/media/logo.png": "/Portfolio/static/media/logo.5e6c7998c25621ba89a8.png",
+    "static/media/Rohan+resume.pdf": "/Portfolio/static/media/Rohan+resume.f9c830e131f744a80f13.pdf",
+    "static/media/cloud-soft.png": "/Portfolio/static/media/cloud-soft.4a7c46b961e63488802b.png",
+    "index.html": "/Portfolio/index.html",
+    "main.97559fe5.css.map": "/Portfolio/static/css/main.97559fe5.css.map",
+    "main.02315fdc.js.map": "/Portfolio/static/js/main.02315fdc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97559fe5.css",
+    "static/js/main.02315fdc.js"
+  ]
+}
